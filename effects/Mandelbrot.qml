@@ -1,16 +1,16 @@
-//Render the mandelbrot set using an image as the pallette
+//Render the mandelbrot set using an image as the palette
 
 import QtQuick 2.5
 
 ShaderEffect {
     width: 320; height: width
-    // the source image to use as the pallette
+    // the source image to use as the palette
     property variant source;
     //The position to center on
     property real x_center: -0.761574;
     property real y_center: -0.0847596;
     property real zoom_scale: 3.0;
-    //The column of the image to use as the pallette
+    //The column of the image to use as the palette
     property real palx_point: 0.0;
     //The rotation of the effect around the center
     property real eff_rotation: 0.0;
