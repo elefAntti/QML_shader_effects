@@ -16,6 +16,7 @@ Each of the qml files in scenes directory are viewable this way:
 
  - SceneVoxels.qml
    I made the raycast algorithm render everything blocky like it was made out of voxels.
+   [![Voxel Raytracing](https://img.youtube.com/watch?v=SOLkXfYlMO00.jpg)](https://www.youtube.com/watch?v=SOLkXfYlMO0)
    
  - SceneDotGrid.qml
    This is a 2D effect that renders objects (2D signed distance field) as a collection of evenly spaced
@@ -24,7 +25,7 @@ Each of the qml files in scenes directory are viewable this way:
  - SceneSphereVoxels.qml
    This kind of combines the two effects above. It uses the voxel renderer as a basis and draws on object as
    a collection of spheres, growing and shrinking as they get closer/further from the surface.
-   
+    [![Voxel Raytracing](https://img.youtube.com/watch?v=le6-Xl2oI38.jpg)](https://www.youtube.com/watch?v=le6-Xl2oI38)
  - SceneCRT.qml
    Render an image as if it was on a really bad CRT screen. This was intended as a post processing step or something.
    
