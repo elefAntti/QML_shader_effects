@@ -25,8 +25,7 @@ Each of the qml files in scenes directory are viewable this way:
  - SceneSphereVoxels.qml
    This kind of combines the two effects above. It uses the voxel renderer as a basis and draws on object as
    a collection of spheres, growing and shrinking as they get closer/further from the surface.
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/le6-Xl2oI38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    [![Sphere Voxels](https://img.youtube.com/vi/le6-Xl2oI38/0.jpg)](https://www.youtube.com/watch?v=le6-Xl2oI38)
+   [![Sphere Voxels](https://img.youtube.com/vi/le6-Xl2oI38/0.jpg)](https://www.youtube.com/watch?v=le6-Xl2oI38)
  - SceneCRT.qml
    Render an image as if it was on a really bad CRT screen. This was intended as a post processing step or something.
    
