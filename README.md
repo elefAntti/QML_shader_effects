@@ -16,7 +16,7 @@ Each of the qml files in scenes directory are viewable this way:
 
  - SceneVoxels.qml
    I made the raycast algorithm render everything blocky like it was made out of voxels.
-   [![Voxel Raytracing](https://img.youtube.com/vi/SOLkXfYlMO00/0.jpg)](https://www.youtube.com/watch?v=SOLkXfYlMO0)
+   [![Voxel Raytracing](https://img.youtube.com/vi/SOLkXfYlMO0/0.jpg)](https://www.youtube.com/watch?v=SOLkXfYlMO0)
    
  - SceneDotGrid.qml
    This is a 2D effect that renders objects (2D signed distance field) as a collection of evenly spaced
